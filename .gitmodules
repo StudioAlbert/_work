@@ -1,3 +1,6 @@
 [submodule "_portfolio"]
 	path = _portfolio
 	url = https://github.com/StudioAlbert/Portfolio.git
+[submodule "_portfolio_wiki"]
+	path = _portfolio_wiki
+	url = https://github.com/StudioAlbert/Portfolio.wiki.git
