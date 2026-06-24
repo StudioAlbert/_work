@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d2c679612c89f40",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
             "id": "c57235918a3f1fe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demarches/candidatures-ecoles-jeu-video-lyon.md",
+                "file": "Demarches/01 - candidatures/_modeles/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "candidatures-ecoles-jeu-video-lyon"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 397.5
   },
   "right": {
     "id": "28b0e5198940dc8e",
@@ -191,19 +180,39 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
-      "card-board:CardBoard": false
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "4ddf36ee1a6c570e",
+  "active": "c57235918a3f1fe7",
   "lastOpenFiles": [
-    "gitignore.txt",
-    "Non confirmé 473194.crdownload",
     "README.md",
-    "Tasks/candidatures-ecoles-lyon.md",
+    "Demarches/01 - candidatures/_modeles/cv-resume-reference.md",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/cv-alstom.md",
+    "Demarches/01 - candidatures/_modeles/README.md",
+    "Demarches/01 - candidatures/_modeles/README.md.tmp.5476.3cf6128d6e57",
+    "Demarches/01 - candidatures/_modeles/cv-industrie.html",
+    "Demarches/01 - candidatures/_modeles/cv-enseignement.html",
+    "Demarches/01 - candidatures/_modeles",
+    "Demarches/01 - candidatures/_to_process/Développeur Senior c C++ HF - Effektiv.md",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/CV_Sebastien_Albert_Alstom.pdf",
+    "Demarches/01 - candidatures/_to_process/Développeur Informatique C - C++ HF - Caveo Consulting.md",
+    "Demarches/01 - candidatures/_to_process/Développeur C++ HF - LR Technologies Groupe.md",
+    "Demarches/01 - candidatures/_to_process/Lead Dev C++ HF Adsearch.md",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Annonce - Alstom Télé-conduite.md",
+    "Demarches/01 - candidatures/_to_process",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Strategie-Alstom.md",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Lettre_Sebastien_Albert_Alstom.pdf",
     "Demarches/candidatures-ecoles-jeu-video-lyon.md",
-    "Bienvenue.md",
-    "Tasks",
-    "Demarches"
+    "Demarches/01 - candidatures/Ingénieur Développement Logiciel - Conduite à distance - Alstom.md",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/lettre-alstom.html",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Lettre-motivation-Alstom.md",
+    "Demarches/01 - candidatures/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/cv-alstom.html",
+    "_portfolio_wiki/How-to-edit-the-printed-CV.md",
+    "Demarches/01 - candidatures/_assets/photo.jpg",
+    "Demarches/01 - candidatures/_assets/cv.css",
+    "_portfolio_wiki/How-to-edit-gallery.md",
+    "_portfolio_wiki/Home.md",
+    "Tasks/candidatures-ecoles-lyon.md",
+    "Bienvenue.md"
   ]
 }

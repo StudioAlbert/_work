@@ -5,12 +5,14 @@ description: Ingénieur / Développeur logiciel — C++, systèmes temps réel, 
 
 # Sébastien Albert
 
-**Ingénieur / Développeur logiciel · C++ · Systèmes temps réel · IHM & vision par ordinateur**
+**Ingénieur / Développeur logiciel · Unity Certified Expert — Programmer . C++ · Systèmes temps réel · IHM & vision par ordinateur**
 
 Lyon, France · 06 29 78 51 72 · sebastien.albert.perso@gmail.com
 Portfolio : https://studioalbert.github.io/Portfolio/ · GitHub : github.com/StudioAlbert · LinkedIn : linkedin.com/in/sebastien-albert
 
-Développeur logiciel depuis 1998 — informatique industrielle temps réel, vision par ordinateur (C++ / OpenCV), puis simulation et 3D interactive temps réel sous Unity (C++ / C#), dont un **simulateur 3D temps réel de formation pour la SNCF**. Goût pour les systèmes robustes, les IHM réactives, l'intégration matérielle et l'architecture logicielle propre. **Unity Certified Expert — Programmer**.
+Développeur logiciel depuis 1998 : 
+informatique industrielle temps réel, vision par ordinateur (C++ / OpenCV), simulation et 3D interactive temps réel sous Unity (C++ / C#), dont un **simulateur 3D temps réel de formation pour la SNCF**. 
+Goût pour les systèmes robustes, les IHM réactives, l'intégration matérielle et l'architecture logicielle propre.
 
 ## Compétences
 
