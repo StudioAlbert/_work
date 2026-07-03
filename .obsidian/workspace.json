@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "3df1bbeae85d83b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demarches/01 - candidatures/Argumentaire candidature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Argumentaire candidature"
+            }
+          },
+          {
             "id": "e57b916ffa3881fb",
             "type": "leaf",
             "state": {
@@ -199,8 +213,20 @@
       "masking-as-md:Open text file": false
     }
   },
-  "active": "e57b916ffa3881fb",
+  "active": "4ddf36ee1a6c570e",
   "lastOpenFiles": [
+    "Demarches/01 - candidatures/Base.base",
+    "Demarches/01 - candidatures/Argumentaire candidature.md",
+    "Demarches/candidatures-ecoles-jeu-video-lyon.md",
+    "Demarches/01 - candidatures/Skaelia - Candidature spontanée/Lettre_Sebastien_Albert_Skaelia.pdf",
+    "_portfolio/src/content/project/aiguillages.md",
+    "Demarches/01 - candidatures/_suivi.md",
+    "Demarches/01 - candidatures/Strategie-00-lot-Cpp-Lyon.md",
+    "Demarches/01 - candidatures/Effektiv (PRIMX) - Développeur Senior C-C++/Message du 01.07.2026.md",
+    "Demarches/01 - candidatures/_suivi.md.tmp.24844.4a3b185322fc",
+    "Demarches/01 - candidatures/Effektiv (PRIMX) - Développeur Senior C-C++/RE_ Suite à votre candidature.eml",
+    "Demarches/01 - candidatures/Effektiv (PRIMX) - Développeur Senior C-C++/Suite à votre candidature.eml",
+    "Demarches/01 - candidatures/Effektiv (PRIMX) - Développeur Senior C-C++/Annonce - Effektiv PRIMX C-C++.md",
     "Demarches/01 - candidatures/_spontanee - Recruteurs IT Lyon/Seyos/message-seyos.md",
     "Demarches/01 - candidatures/_suivi.md.tmp.26304.2311d85f1a35",
     "Demarches/01 - candidatures/_modeles/message-spontanee-recruteur.md",
@@ -211,12 +237,7 @@
     "Demarches/01 - candidatures/Seyos - Candidature spontanée",
     "Demarches/01 - candidatures/Silkhom - Candidature spontanée/message-silkhom.md",
     "Demarches/01 - candidatures/Silkhom - Candidature spontanée/Lettre_Sebastien_Albert_Silkhom.pdf",
-    "Demarches/01 - candidatures/Silkhom - Candidature spontanée/lettre-silkhom.html",
-    "Demarches/01 - candidatures/Silkhom - Candidature spontanée",
     "Demarches/01 - candidatures/Skaelia - Candidature spontanée/message-skaelia.md",
-    "Demarches/01 - candidatures/Skaelia - Candidature spontanée/Lettre_Sebastien_Albert_Skaelia.pdf",
-    "Demarches/01 - candidatures/Skaelia - Candidature spontanée/lettre-skaelia.html",
-    "Demarches/01 - candidatures/Skaelia - Candidature spontanée",
     "Demarches/01 - candidatures/Licorne Society - Candidature spontanée/message-licorne-society.md",
     "Demarches/01 - candidatures/Externatic - Candidature spontanée/message-externatic.md",
     "Demarches/01 - candidatures/_spontanee - Recruteurs IT Lyon/Skaelia/message-skaelia.md",
@@ -225,8 +246,6 @@
     "Demarches/01 - candidatures/_spontanee - Recruteurs IT Lyon/Silkhom/message-silkhom.md",
     "Demarches/01 - candidatures/_spontanee - Recruteurs IT Lyon/Licorne Society/message-licorne-society.md",
     "Demarches/01 - candidatures/_spontanee - Recruteurs IT Lyon/lettre-spontanee-recruteur.md",
-    "Demarches/01 - candidatures/_suivi.md",
-    "_portfolio/src/content/project/aiguillages.md",
     "_portfolio/public/og/cv.png",
     "_portfolio/public/og/projets.png",
     "_portfolio/public/og/accueil.png",
@@ -234,11 +253,6 @@
     "Demarches/01 - candidatures/Abylsen - Lead Développeur C++ C#/Message-recruteur-Abylsen.md",
     "Demarches/01 - candidatures/Effektiv (PRIMX) - Développeur Senior C-C++/Message-recruteur-Effektiv.md",
     "Demarches/01 - candidatures/Caveo Consulting - Développeur C-C++/Strategie-Caveo.md",
-    "Demarches/01 - candidatures/LR Technologies - Développeur C++/Strategie-LR-Technologies.md",
-    "Demarches/01 - candidatures/Adsearch - Lead Dev C++/Strategie-Adsearch.md",
-    "Demarches/01 - candidatures/Abylsen - Lead Développeur C++ C#/Strategie-Abylsen.md",
-    "Demarches/01 - candidatures/Effektiv (PRIMX) - Développeur Senior C-C++/Strategie-Effektiv-PRIMX.md",
-    "Demarches/01 - candidatures/Strategie-00-lot-Cpp-Lyon.md",
     "Demarches/01 - candidatures/_assets/photo.jpg"
   ]
 }

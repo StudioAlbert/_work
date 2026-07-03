@@ -1,0 +1,97 @@
+Received: by 2002:a05:651c:40d4:b0:39a:fdaf:c1b9 with SMTP id h20csp864227ljc;
+        Wed, 1 Jul 2026 02:09:05 -0700 (PDT)
+Received: from MRZP264CU002.outbound.protection.outlook.com (mail-francesouthazlp170100001.outbound.protection.outlook.com. [2a01:111:f403:c207::1])
+        by mx.google.com with ESMTPS id ffacd0b85a97d-475645b8e84si10748818f8f.93.2026.07.01.02.09.04
+        for <sebastien.albert.perso@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 01 Jul 2026 02:09:04 -0700 (PDT)
+Received: from PATP264MB7115.FRAP264.PROD.OUTLOOK.COM (2603:10a6:102:590::9)
+ by MR1P264MB3491.FRAP264.PROD.OUTLOOK.COM (2603:10a6:501:20::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.181.9; Wed, 1 Jul 2026
+ 09:09:01 +0000
+Received: from PATP264MB7115.FRAP264.PROD.OUTLOOK.COM
+ ([fe80::f064:df16:12ec:abef]) by PATP264MB7115.FRAP264.PROD.OUTLOOK.COM
+ ([fe80::f064:df16:12ec:abef%3]) with mapi id 15.21.0181.008; Wed, 1 Jul 2026
+ 09:09:01 +0000
+From: Marguerite De Pury <marguerite.depury@effektiv.fr>
+To: Sebastien Albert <sebastien.albert.perso@gmail.com>
+Subject: =?Windows-1252?Q?Suite_=E0_votre_candidature?=
+Thread-Topic: =?Windows-1252?Q?Suite_=E0_votre_candidature?=
+Thread-Index: AQHdCTlBsSky0FlJsEytIJb/fEHP8Q==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Wed, 1 Jul 2026 09:09:01 +0000
+Message-ID:
+	<PATP264MB711585095572C776E5E8A541E2F62@PATP264MB7115.FRAP264.PROD.OUTLOOK.COM>
+Accept-Language: fr-FR, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+received-spf: pass (google.com: domain of marguerite.depury@effektiv.fr
+ designates 2a01:111:f403:c207::1 as permitted sender)
+ client-ip=2a01:111:f403:c207::1;
+x-ms-publictraffictype: Email
+Content-Type: multipart/alternative;
+	boundary="_000_PATP264MB711585095572C776E5E8A541E2F62PATP264MB7115FRAP_"
+MIME-Version: 1.0
+
+--_000_PATP264MB711585095572C776E5E8A541E2F62PATP264MB7115FRAP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Bonjour Sebastien
+
+Merci pour votre candidature au poste de D=E9veloppeur Senior C C++ - F/H/X
+
+Pour gagner en r=E9activit=E9, n'h=E9sitez pas =E0 me r=E9pondre en renseig=
+nant ces quelques crit=E8res afin que je puisse vous accompagner :
+
+Poste recherch=E9 :
+Nombre d=92ann=E9es d=92exp=E9rience :
+Stack technique :
+R=E9mun=E9ration :
+Localisation/Mobilit=E9 + Temps de trajet max :
+T=E9l=E9travail :
+Disponibilit=E9 / Pr=E9avis :
+
+J=92attends de vos nouvelles.
+Tr=E8s belle journ=E9e !
+
+
+--_000_PATP264MB711585095572C776E5E8A541E2F62PATP264MB7115FRAP_
+Content-Type: text/html; charset="Windows-1252"
+Content-ID: <4C43466855E949478E6E635CB531A1AA@1>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body>
+<div>Bonjour Sebastien </div>
+<div>&nbsp;</div>
+<div>Merci pour votre candidature au poste de D=E9veloppeur Senior C C++ - =
+F/H/X </div>
+<div>&nbsp;</div>
+<div>Pour gagner en r=E9activit=E9, n'h=E9sitez pas =E0 me r=E9pondre en re=
+nseignant ces quelques crit=E8res afin que je puisse vous accompagner :</di=
+v>
+<div>&nbsp;</div>
+<div><strong>Poste recherch=E9</strong>&nbsp;:</div>
+<div><strong>Nombre d=92ann=E9es d=92exp=E9rience :</strong></div>
+<div><strong>Stack technique</strong>&nbsp;:</div>
+<div><strong>R=E9mun=E9ration </strong>:</div>
+<div><strong>Localisation/Mobilit=E9 + Temps de trajet max </strong>:</div>
+<div><strong>T=E9l=E9travail </strong>:</div>
+<div><strong>Disponibilit=E9 / Pr=E9avis</strong>&nbsp;:</div>
+<div>&nbsp;</div>
+<div>J=92attends de vos nouvelles.</div>
+<div>Tr=E8s belle journ=E9e&nbsp;!</div>
+<div>&nbsp;</div>
+</body>
+</html>
+
+--_000_PATP264MB711585095572C776E5E8A541E2F62PATP264MB7115FRAP_--

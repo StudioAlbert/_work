@@ -13,7 +13,7 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
 | Entreprise | Poste | Prio | Statut | Déposée le | Canal | Prochaine action | Dossier |
 |---|---|---|---|---|---|---|---|
 | **Abylsen (ST/RA)** | Lead Dev C++/C# | 2 | Déposée | 2026-06-24 | Portail Abylsen (LinkedIn) + message recruteur | Relancer 📅 2026-07-04 | [[Strategie-Abylsen]] |
-| **Effektiv → PRIM'X** | Dev Senior C/C++ | 1 | Déposée | 2026-06-25 | Formulaire Hellowork + message | Relancer 📅 2026-07-05 | [[Strategie-Effektiv-PRIMX]] |
+| **Effektiv → PRIM'X** | Dev Senior C/C++ | 1 | Déposée | 2026-06-25 | Formulaire Hellowork + message | Attendre retour Marguerite (répondu 2026-07-01) · Relancer si sans nouvelles 📅 2026-07-08 | [[Strategie-Effektiv-PRIMX]] |
 | **Alstom** | Ing. Dev Logiciel (Télé-conduite) | — | Déposée | 2026-06-25 | Jobsite Alstom (Req 501727) | Relancer 📅 2026-07-05 | [[Strategie-Alstom]] |
 | **Adsearch** | Lead Dev C++ | 3 | En attente | — | Hellowork + réseau consultant | En attente | [[Strategie-Adsearch]] |
 | **LR Technologies** | Dev C++ | 4 | En attente | — | Hellowork (ESN) | En attente (arbitrer LR/Caveo) | [[Strategie-LR-Technologies]] |
@@ -44,6 +44,9 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
 - **Candidatures spontanées — recruteurs IT Lyon** — Préparation et envoi d'un lot de 5 candidatures spontanées (message court + lettre HTML/PDF) à des cabinets IT lyonnais, angle pivot enseignement → ingénieur C++/temps réel. Contenus réorganisés en dossiers dédiés `<Cabinet> - Candidature spontanée/` (nomenclature alignée sur Abylsen, etc.) ; gabarits déplacés dans `_modeles/`.
   - **Externatic, Skaelia, Silkhom, Seyos** — Déposées. → Statut **Déposée**. Relance prévue 📅 2026-07-10.
   - **Licorne Society** — Dépôt **non abouti** (site du cabinet buggé). → Statut **À postuler**. Retenter 📅 2026-07-01.
+
+### 2026-07-01
+- **Effektiv → PRIM'X** — Marguerite De Pury (recruteuse Effektiv) relance par email pour qualifier la candidature : poste recherché, XP, stack technique, rémunération, mobilité/télétravail, disponibilité/préavis. Réponse envoyée le jour même (15 ans+ XP, stack C++/C#/CMake/OpenCV, 50-52K€ brut, Lyon 8 mobile 45 min, hybride 2-3j télétravail, préavis 3 mois négociable). → Statut **Déposée** (échange en cours, pas encore d'entretien). Relance si sans nouvelles 📅 2026-07-08.
 
 <!--
 Modèle d'entrée à recopier :
