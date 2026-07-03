@@ -1,6 +1,6 @@
 # Stratégie de lot — 5 offres C/C++ Lyon (juin 2026)
 
-Vue d'ensemble pour le lot d'annonces traité depuis `_to_process`. Chaque offre a sa propre stratégie détaillée dans son dossier dédié (`Strategie-*.md`).
+Vue d'ensemble pour le lot d'annonces traité depuis `00_to_process`. Chaque offre a sa propre stratégie détaillée dans son dossier dédié (`Strategie-*.md`).
 
 **Candidat :** Sébastien Albert — Lyon · C++ · temps réel · vision par ordinateur · C# · IHM
 **Décisions cadre (validées) :** traiter les 5 avec priorisation · **pas de plancher salarial** · **éditeur/produit privilégié** vs régie ESN · Lead/IC indifférent.

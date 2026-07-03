@@ -7,6 +7,7 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
 > - **Chaque événement daté** (dépôt, relance, réponse, entretien…) va dans le **Journal** en bas, avec la date du jour au format `YYYY-MM-DD`.
 > - **Statuts** : `À postuler` · `En attente` · `Déposée` · `Relancée` · `Entretien` · `Offre` · `Refus` · `Sans réponse` · `Abandonnée`.
 > - **Prochaine action** : porter une date `📅 YYYY-MM-DD` pour ne rien oublier (relance ~J+10 par défaut).
+> - **Rangement** : `00_to_process/` = annonces à traiter · `01_en_cours/` = candidatures **déposées** · `02_en attente/` = en attente / à postuler.
 
 ## Tableau de bord
 
@@ -26,7 +27,7 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
 
 > ⚠️ **LR / Caveo** : annonces quasi identiques, probable même client final via deux ESN → n'en retenir qu'**une**. Voir [[Strategie-00-lot-Cpp-Lyon]].
 >
-> 📨 **Candidatures spontanées (Externatic, Skaelia, Silkhom, Seyos, Licorne Society)** : prises de contact recruteurs IT lyonnais pour décrocher un échange autour du pivot enseignement → ingénieur C++/temps réel. Dossiers `<Cabinet> - Candidature spontanée/` (message + lettre HTML/PDF). Gabarits réutilisables dans `_modeles/` (`message-spontanee-recruteur.md`, `lettre-spontanee-recruteur.md`).
+> 📨 **Candidatures spontanées (Externatic, Skaelia, Silkhom, Seyos, Licorne Society)** : prises de contact recruteurs IT lyonnais pour décrocher un échange autour du pivot enseignement → ingénieur C++/temps réel. Dossiers `01_en_cours/<Cabinet> - Candidature spontanée/` (message + lettre HTML/PDF). Gabarits réutilisables dans `_modeles/` (`message-spontanee-recruteur.md`, `lettre-spontanee-recruteur.md`).
 
 ## Journal des événements
 
@@ -44,6 +45,9 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
 - **Candidatures spontanées — recruteurs IT Lyon** — Préparation et envoi d'un lot de 5 candidatures spontanées (message court + lettre HTML/PDF) à des cabinets IT lyonnais, angle pivot enseignement → ingénieur C++/temps réel. Contenus réorganisés en dossiers dédiés `<Cabinet> - Candidature spontanée/` (nomenclature alignée sur Abylsen, etc.) ; gabarits déplacés dans `_modeles/`.
   - **Externatic, Skaelia, Silkhom, Seyos** — Déposées. → Statut **Déposée**. Relance prévue 📅 2026-07-10.
   - **Licorne Society** — Dépôt **non abouti** (site du cabinet buggé). → Statut **À postuler**. Retenter 📅 2026-07-01.
+
+### 2026-07-03
+- **Rangement** — Les 7 dossiers de candidatures **déposées** (Abylsen, Effektiv/PRIM'X, Alstom, Externatic, Skaelia, Silkhom, Seyos) déplacés dans `01_en_cours/`. Les 4 dossiers en attente / à postuler (Adsearch, LR Technologies, Caveo, Licorne Society) déplacés dans `02_en attente/`. Chemins `../_assets/` des HTML corrigés en `../../_assets/`.
 
 ### 2026-07-01
 - **Effektiv → PRIM'X** — Marguerite De Pury (recruteuse Effektiv) relance par email pour qualifier la candidature : poste recherché, XP, stack technique, rémunération, mobilité/télétravail, disponibilité/préavis. Réponse envoyée le jour même (15 ans+ XP, stack C++/C#/CMake/OpenCV, 50-52K€ brut, Lyon 8 mobile 45 min, hybride 2-3j télétravail, préavis 3 mois négociable). → Statut **Déposée** (échange en cours, pas encore d'entretien). Relance si sans nouvelles 📅 2026-07-08.
