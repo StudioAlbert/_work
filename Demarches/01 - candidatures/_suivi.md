@@ -47,6 +47,7 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
   - **Licorne Society** — Dépôt **non abouti** (site du cabinet buggé). → Statut **À postuler**. Retenter 📅 2026-07-01.
 
 ### 2026-07-03
+- **Amplitude (Valence) · eCential Robotics (Grenoble)** — Analyse stratégique des 2 annonces de `00_to_process/` : dossiers créés avec `Strategie-*.md` + proposition de lettre. Points bloquants à trancher avant dépôt : **géographie** (Valence ~1h05 TER, Gières ~1h30 — hors critère 45 min) et, pour eCential, **santé financière à vérifier** (difficultés évoquées en 2024). → Restent en `00_to_process/` en attendant arbitrage.
 - **Rangement** — Les 7 dossiers de candidatures **déposées** (Abylsen, Effektiv/PRIM'X, Alstom, Externatic, Skaelia, Silkhom, Seyos) déplacés dans `01_en_cours/`. Les 4 dossiers en attente / à postuler (Adsearch, LR Technologies, Caveo, Licorne Society) déplacés dans `02_en attente/`. Chemins `../_assets/` des HTML corrigés en `../../_assets/`.
 
 ### 2026-07-01
