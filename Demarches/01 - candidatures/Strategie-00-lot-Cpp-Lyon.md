@@ -70,4 +70,44 @@ Les deux annonces sont **quasi identiques** (produit IoT + **moteur d'inférence
 
 ---
 
+## 5. Extension du pipeline (juillet 2026)
+
+Le lot initial de 5 offres a été complété au fil de l'eau. **Pipeline courant** (voir `_suivi.md` pour l'état vivant) :
+
+- **Ajouts entreprises directes** : **Alstom** (Télé-conduite, angle ferroviaire aligné avec Abylsen) · **Amplitude** (C++ chirurgie, Valence) · **eCential Robotics** (C++ Spine, Gières). Amplitude & eCential portent un **risque géo** (>45 min) et pour eCential un **risque santé financière** à instruire avant tout engagement.
+- **Lot spontanées cabinets IT Lyon (2026-06-30)** : Externatic · Skaelia · Silkhom · ~~Seyos~~ (refus 2026-07-06) · Licorne Society (dépôt raté, à retenter). Objectif : décrocher **un échange sur la lecture du marché C++/temps réel lyonnais**, pas un mandat immédiat. ROI attendu : 1 échange sur 5 au mieux — investir peu par relance.
+- **Volet enseignement JV Lyon** (parallèle) : Gamagora, Gaming Campus, Bellecour, E-Artsup. Piste de repli professionnel si le pivot industriel tarde ; **ne pas laisser dériver l'identité** projetée sur les canaux industriels (cf. §1).
+
+## 6. Signaux marché & journal stratégique
+
+### 2026-07-06 — Refus Seyos (cabinet IT & Ingénierie industrielle)
+
+**Signal** : refus template J+6, signé par le référent IT & Ingénierie industrielle (Dorian Ribeiro de Abreu). Message-type « pas d'adéquation avec les besoins actuels de nos clients », invitation à re-postuler.
+
+**Interprétation** :
+- Signal **faible sur le profil** (message générique, pas de retour qualitatif), **fort sur le mode cabinet** : le placement suit un mandat client, pas un vivier de profils atypiques. Un dépôt spontané chez un cabinet retourne peu de valeur si aucun mandat matché n'est ouvert au moment T.
+- La décision est *informée* (signée du bon interlocuteur, pas d'un tri RH aveugle) → pas de rappel à faire chez Seyos avant qu'une offre C++ industriel précise sorte.
+
+**Implications sur le reste du lot spontané (Externatic, Skaelia, Silkhom)** :
+- Scénario probable pour 2/3 : silence radio ou refus template similaire.
+- **Relance J+10 (📅 2026-07-10)** : format court, pivoter la demande sur *lecture du marché* (échange informationnel), pas re-pitch. Un consultant IT parle volontiers de son marché même sans mandat — ça amorce le vivier.
+- Ne pas surinvestir : une seule bascule paie le lot.
+
+**Actions dérivées** :
+- **Veille active Seyos** : alerte offres seyos.fr + suivre Dorian Ribeiro de Abreu sur LinkedIn. Un dépôt ciblé futur sur *son* offre court-circuite la spontanée.
+- **Pas de 2ᵉ lot spontanée cabinets** avant d'avoir mesuré le retour du 1ᵉʳ. Si 2ᵉ lot un jour, changer l'angle (ESN plutôt que cabinets pur recrutement, ou approche LinkedIn directe des référents plutôt que formulaire site).
+
+### Prochains jalons de décision
+
+- **2026-07-08** : retour Effektiv/Marguerite (échange en cours) → si sans nouvelles, relance douce.
+- **2026-07-10** : relance lot spontanées (mode « lecture du marché »).
+- **~2026-07-15** : **bilan intermédiaire** post-relances Abylsen/Effektiv/Alstom/spontanées. Arbitrages à trancher :
+  - Réactivation Adsearch / arbitrage LR-Caveo ?
+  - Décision Amplitude/eCential (géo + santé financière eCential) ?
+  - Volet enseignement : signaux Gamagora / Gaming Campus / E-Artsup ?
+- **2026-08-24** : relance Bellecour École si toujours sans nouvelles.
+
+---
+
 *Détail par offre : voir `Strategie-*.md` dans chaque dossier de candidature.*
+*État vivant du pipeline : voir `_suivi.md` (tableau de bord + journal daté).*
