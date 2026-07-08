@@ -15,7 +15,7 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
 |---|---|---|---|---|---|---|---|
 | **Abylsen (ST/RA)** | Lead Dev C++/C# | 2 | Déposée | 2026-06-24 | Portail Abylsen (LinkedIn) + message recruteur | Relancer 📅 2026-07-04 | [[Strategie-Abylsen]] |
 | **Effektiv → PRIM'X** | Dev Senior C/C++ | 1 | Déposée | 2026-06-25 | Formulaire Hellowork + message | Attendre retour Marguerite (répondu 2026-07-01) · Relancer si sans nouvelles 📅 2026-07-08 | [[Strategie-Effektiv-PRIMX]] |
-| **Alstom** | Ing. Dev Logiciel (Télé-conduite) | — | Déposée | 2026-06-25 | Jobsite Alstom (Req 501727) | Relancer 📅 2026-07-05 | [[Strategie-Alstom]] |
+| **Alstom** | Ing. Dev Logiciel (Télé-conduite) | — | **Entretien** | 2026-06-25 | Jobsite Alstom (Req 501727) | 🎥 Entretien Teams **confirmé 📅 2026-07-10** — D. Gelin (V&V) · prépa [[Argumentaire-entretien-Alstom]] · [[Glossaire-technique-Alstom]] · [[Remuneration-marche-Alstom]] · démonstrateur prêt | [[Strategie-Alstom]] |
 | **Adsearch** | Lead Dev C++ | 3 | En attente | — | Hellowork + réseau consultant | En attente | [[Strategie-Adsearch]] |
 | **LR Technologies** | Dev C++ | 4 | En attente | — | Hellowork (ESN) | En attente (arbitrer LR/Caveo) | [[Strategie-LR-Technologies]] |
 | **Caveo Consulting** | Dev C/C++ | 5 | En attente | — | Hellowork (ESN) | En attente (arbitrer LR/Caveo) | [[Strategie-Caveo]] |
@@ -81,6 +81,12 @@ Tableau de bord unique de mes candidatures (industrie / logiciel). Source de vé
 ### 2026-07-06
 - **Seyos** — **Refus** reçu par email de **Dorian Ribeiro De Abreu** (Référent - Consultant en recrutement, IT & Ingénierie industrielle). Message-type poli : « qualité du profil et parcours » saluée, mais « pas d'adéquation avec les besoins actuels de nos clients ». Invitation à re-postuler à l'avenir et à consulter régulièrement les offres seyos.fr. Délai de réponse rapide : ~6 jours (dépôt 2026-06-30 → réponse 2026-07-06). → Statut **Refus**. Dossier déplacé dans `03_terminees/Seyos - Candidature spontanée/` (nouveau répertoire pour candidatures closes). Email de refus archivé dans le dossier.
 - **Rangement** — Création de `03_terminees/` pour les candidatures closes (refus, sans réponse actés, abandonnées). Convention de rangement mise à jour en tête du document.
+
+### 2026-07-07
+- **Alstom** — **Invitation à un entretien visio** reçue de **David GELIN (V&V Manager)** pour le poste *SW Engineer Remote Driving System* (Req 501727). Créneau initialement proposé : **08/07/2026 10h–10h30** sur **Microsoft Teams** (lien + code dans l'email). → Statut **Entretien**. Email archivé dans le dossier (`ALSTOM - Entretien visio - Sebastien Albert.eml`). Argumentaire préparé : [[Argumentaire-entretien-Alstom]].
+
+### 2026-07-08
+- **Alstom** — Entretien **reporté à vendredi 2026-07-10**, désormais **calé/confirmé**. Préparation produite dans le dossier : [[Argumentaire-entretien-Alstom]], **glossaire technique anti-piège** ([[Glossaire-technique-Alstom]]), **recherche rémunération marché** ([[Remuneration-marche-Alstom]] — cible ~48–55 K€ base, package grand groupe en plus) et **démonstrateur** Python/MQTT/Docker/CI (`demonstrateur-teleconduite/`) pour matérialiser la montée en compétence. Restant à faire côté Sébastien : tester le lien/matériel Teams, répéter l'argumentaire, préparer les 2 anecdotes clés (simulateur SNCF, mesure PRESI).
 
 <!--
 Modèle d'entrée à recopier :

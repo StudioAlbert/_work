@@ -4,3 +4,6 @@
 [submodule "_portfolio_wiki"]
 	path = _portfolio_wiki
 	url = https://github.com/StudioAlbert/Portfolio.wiki.git
+[submodule "demonstrateur-teleconduite"]
+	path = Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/demonstrateur-teleconduite
+	url = https://github.com/StudioAlbert/Demo-Docker-Python.git
