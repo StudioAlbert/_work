@@ -8,10 +8,10 @@
 ## Partie A — QCM (20 questions)
 
 **1.** `const a = [1]; a.push(2); console.log(a.length);`
-- a) `1`  b) `2`  c) `TypeError` (const)  d) `undefined`
+- a) `1`  b) `2`  **c) `TypeError` (const)**  d) `undefined`
 
 **2.** `console.log('1' == 1, '1' === 1);`
-- a) `true true`  b) `true false`  c) `false false`  d) `false true`
+- a) `true true`  *b) `true false`*  c) `false false`  d) `false true`
 
 **3.** ★ `console.log([] == false);`
 - a) `false`  b) `true`  c) `TypeError`  d) `undefined`

@@ -109,9 +109,8 @@ print(list(g), list(g))
 
 **24.** Que produit `print(0 < 5 < 3)` ?
 - a) `True`  b) `False`  c) erreur de syntaxe  d) `0`
-
+```
 ---
-
 ## Partie B — Exercices de code (8 katas)
 
 > Écris-les **de mémoire**, puis compare. Vise simple et correct.
