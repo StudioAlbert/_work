@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Argumentaire-entretien-Alstom"
             }
+          },
+          {
+            "id": "a66f04169acf5804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demarches/01 - candidatures/01_en_cours/Exotec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exotec"
+            }
+          },
+          {
+            "id": "c070d1f505bd7fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Ressources Game Jobs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ressources Game Jobs"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -78,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 318.3000183105469
   },
   "right": {
     "id": "28b0e5198940dc8e",
@@ -184,44 +215,44 @@
       "masking-as-md:Open text file": false
     }
   },
-  "active": "c57235918a3f1fe7",
+  "active": "c070d1f505bd7fe2",
   "lastOpenFiles": [
-    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/demonstrateur-teleconduite/README.md",
+    "Tasks/candidatures-ecoles-lyon.md",
+    "Notes/Ressources Game Jobs.md",
+    "Demarches/candidatures-ecoles-jeu-video-lyon.md",
+    "Demarches/01 - candidatures/_suivi.md",
+    "Demarches/02 - Montée en compétences/Plan.md",
+    "Notes/2i Portage.md",
+    "Notes/Reunion Elias 13.08.26.md",
+    "Demarches/01 - candidatures/01_en_cours/Exotec.md",
+    "Notes",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Pratique-NodeJS-Alstom.md",
+    "Demarches/02 - Montée en compétences",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Pratique-React-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Pratique-Python-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Cheatsheet-Python-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Cheatsheet Python.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Glossaire-technique-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Cheatsheet-Cpp-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Cheatsheet-Git-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Cheatsheet-NodeJS-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Cheatsheet-React-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Cheatsheet-Docker-Test-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game/Strategie-Test-Technique-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Preparation Coding Game",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Nouveau dossier",
     "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Argumentaire-entretien-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Annonce - Alstom Télé-conduite.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Argumentaire-entretien-Alstom (1).md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/Remuneration-marche-Alstom.md",
+    "Demarches/01 - candidatures/01_en_cours/Alstom - Ingénieur Dev Logiciel (Télé-conduite)/demonstrateur-teleconduite/README.md",
     "Demarches/01 - candidatures/_modeles/cv-resume-reference.md",
     "Demarches/01 - candidatures/_suivi.md.tmp.29984.cfb1293f063d",
     "Demarches/01 - candidatures/03_terminees/Seyos - Candidature spontanée/Seyos - Candidature spontanée de Sébastien ALBERT.eml",
-    "Demarches/01 - candidatures/03_terminees/Seyos - Candidature spontanée/message-seyos.md",
     "Demarches/01 - candidatures/03_terminees/Seyos - Candidature spontanée/lettre-seyos.html",
     "Demarches/01 - candidatures/03_terminees/Seyos - Candidature spontanée/Lettre_Sebastien_Albert_Seyos.pdf",
     "Demarches/01 - candidatures/03_terminees/Seyos - Candidature spontanée",
     "Demarches/01 - candidatures/03_terminees",
-    "Demarches/01 - candidatures/01_en_cours/Seyos - Candidature spontanée/Seyos - Candidature spontanée de Sébastien ALBERT.eml",
-    "Demarches/candidatures-ecoles-jeu-video-lyon.md",
-    "Demarches/01 - candidatures/_modeles/message-spontanee-recruteur.md",
-    "Demarches/01 - candidatures/_assets/Profile.pdf",
-    "Demarches/01 - candidatures/_printed/CV - Sebastien Albert - Industrie.pdf",
-    "Demarches/01 - candidatures/01_en_cours/Bellecour École - Intervenant Prog & IA jeu vidéo/RE_ De retour vers Bellecour - reponse J.Saudemont 2026-06-22.eml",
-    "Demarches/01 - candidatures/00_to_process/eCential Robotics - Ingénieur Dev C++ Spine (Grenoble)/Lettre-motivation-eCential.md",
-    "Demarches/01 - candidatures/01_en_cours/eCential Robotics - Ingénieur Dev C++ Spine (Grenoble)/Strategie-eCential.md",
-    "Demarches/01 - candidatures/01_en_cours/eCential Robotics - Ingénieur Dev C++ Spine (Grenoble)/Lettre-motivation-eCential.md",
-    "Demarches/01 - candidatures/01_en_cours/eCential Robotics - Ingénieur Dev C++ Spine (Grenoble)/Annonce - eCential Robotics C++ Spine.md",
-    "Demarches/01 - candidatures/01_en_cours/Amplitude - Ingénieur Dev Logiciel C++ (Valence)/Strategie-Amplitude.md",
-    "Demarches/01 - candidatures/01_en_cours/Amplitude - Ingénieur Dev Logiciel C++ (Valence)/Lettre-motivation-Amplitude.md",
-    "Demarches/01 - candidatures/01_en_cours/Amplitude - Ingénieur Dev Logiciel C++ (Valence)/Annonce - Amplitude C++ Chirurgie.md",
-    "Demarches/01 - candidatures/00_to_process/Amplitude - Ingénieur Dev Logiciel C++ (Valence)/Lettre-motivation-Amplitude.md",
-    "_portfolio/src/content/project/aiguillages.md",
-    "Demarches/01 - candidatures/00_to_process/eCential Robotics - Ingénieur Dev C++ Spine (Grenoble)/Strategie-eCential.md",
-    "Demarches/01 - candidatures/00_to_process/Amplitude - Ingénieur Dev Logiciel C++ (Valence)/Strategie-Amplitude.md",
-    "Demarches/01 - candidatures/00_to_process/eCential Robotics - Ingénieur Dev C++ Spine (Grenoble)/Annonce - eCential Robotics C++ Spine.md",
-    "Demarches/01 - candidatures/00_to_process/Amplitude - Ingénieur Dev Logiciel C++ (Valence)/Annonce - Amplitude C++ Chirurgie.md",
-    "Demarches/01 - candidatures/_suivi.md",
-    "Demarches/01 - candidatures/Strategie-00-lot-Cpp-Lyon.md",
-    "Demarches/01 - candidatures/Argumentaire candidature.md",
-    "Demarches/01 - candidatures/_to_process/Amplitude - dev c++ - chirurgie.md",
-    "Demarches/01 - candidatures/02_en attente/Licorne Society - Candidature spontanée/message-licorne-society.md",
-    "Demarches/01 - candidatures/02_en attente/Caveo Consulting - Développeur C-C++/Strategie-Caveo.md",
-    "Demarches/01 - candidatures/02_en attente/Caveo Consulting - Développeur C-C++/Annonce - Caveo C-C++.md",
     "_portfolio/public/og/cv.png",
     "_portfolio/public/og/projets.png",
     "_portfolio/public/og/accueil.png",
