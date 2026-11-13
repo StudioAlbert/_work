@@ -6,7 +6,7 @@ lieu: Lyon
 
 **Sébastien Albert**
 Lyon, France · 06 29 78 51 72 · sebastien.albert.perso@gmail.com
-Portfolio : https://studioalbert.github.io/Portfolio/
+Portfolio : https://www.studio-albert.com/
 
 À l'attention de [Prénom Nom] — [Cabinet]
 **Objet :** Candidature spontanée — ingénieur logiciel C++ / temps réel, Lyon

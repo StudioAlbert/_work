@@ -17,7 +17,7 @@ Cet enseignement est une pratique continue : la programmation de jeux vidéo imp
 
 Auriez-vous **15-20 minutes** pour échanger sur les opportunités qui pourraient correspondre ?
 
-CV et portfolio en pièce jointe / lien : https://studioalbert.github.io/Portfolio/
+CV et portfolio en pièce jointe / lien : https://www.studio-albert.com/
 
 Merci pour votre temps,
 Sébastien Albert
